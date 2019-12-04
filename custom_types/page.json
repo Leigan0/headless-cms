@@ -1,0 +1,27 @@
+{
+  "Get Started": {
+    "uid": {
+      "type": "UID",
+      "config": {
+        "placeholder": "UID"
+      }
+    },
+    "title": {
+      "type": "StructuredText",
+      "config": {
+        "single": "heading1",
+        "placeholder": "Title..."
+      }
+    },
+    "image": {
+      "type": "Image"
+    },
+    "description": {
+      "type": "StructuredText",
+      "config": {
+        "multi": "paragraph,em,strong,hyperlink",
+        "placeholder": "Description..."
+      }
+    }
+  }
+}

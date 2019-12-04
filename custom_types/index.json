@@ -1,0 +1,20 @@
+[
+  {
+    "id": "page",
+    "name": "Page",
+    "repeatable": true,
+    "value": "page.json"
+  },
+  {
+    "id": "nav",
+    "name": "Nav",
+    "repeatable": true,
+    "value": "nav.json"
+  },
+  {
+    "id": "homepage",
+    "name": "Homepage",
+    "repeatable": false,
+    "value": "homepage.json"
+  }
+]
